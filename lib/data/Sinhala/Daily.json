@@ -1,0 +1,45 @@
+[
+  {
+    "name":"දිවයින",
+    "des":"සිංහල භාෂාවෙන් ඔබ වෙත පිදෙන දිනපතා පුවත්පතකි.",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9mm7PNVNQ8Krx-3orSQXRIJ7G5fHuBxAzSA&usqp=CAU",
+    "siteUrl": "https://divaina.com/daily/index.php"
+  },
+  {
+    "name":"මව්බිම",
+    "des":"සිංහල භාෂාවෙන් ඔබ වෙත පිදෙන දිනපතා පුවත්පතකි.",
+    "imgUrl": "https://mawbima.lk/backend/uploads/epaperCategory/1_Mawbima4.jpg",
+    "siteUrl": "https://mawbima.lk/"
+  },
+  {
+    "name":"ලංකාදීප",
+    "des":"සිංහල භාෂාවෙන් ඔබ වෙත පිදෙන දිනපතා පුවත්පතකි.",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPp-7gs50oDSr7dQBWGZ5PNvoQJNv6IPDaLw&usqp=CAU",
+    "siteUrl": "http://www.lankadeepa.lk/"
+  },
+  {
+    "name":"රාවය",
+    "des":"සිංහල භාෂාවෙන් ඔබ වෙත පිදෙන දිනපතා පුවත්පතකි.",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Ravaya_logo.gif",
+    "siteUrl": "https://ravaya.lk/"
+  },
+  {
+    "name":"දිනමිණ",
+    "des":"සිංහල භාෂාවෙන් ඔබ වෙත පිදෙන දිනපතා පුවත්පතකි.",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNaZ-Kdv7WkOrDjSZzqKMK3MpwCxdAub7TlA&usqp=CAU",
+    "siteUrl": "http://www.dinamina.lk/"
+  },
+  {
+    "name":"අද",
+    "des":"සිංහල භාෂාවෙන් ඔබ වෙත පිදෙන දිනපතා පුවත්පතකි.",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu9ytxXjZuvQbHMG_AytzuMlJXYQI60piJKQ&usqp=CAU",
+    "siteUrl": "http://www.ada.lk/"
+  },
+  {
+    "name":"දේශය",
+    "des":"සිංහල භාෂාවෙන් ඔබ වෙත පිදෙන දිනපතා පුවත්පතකි.",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6IJGGtEXU-6fOqc-Dv7ke533QfcGNXTtVHQ&usqp=CAU",
+    "siteUrl": "http://www.deshaya.lk/"
+  }
+
+]

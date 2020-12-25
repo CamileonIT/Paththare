@@ -1,0 +1,20 @@
+[
+  {
+    "name":"Silumina",
+    "des":"The newspaper of the nation",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9mm7PNVNQ8Krx-3orSQXRIJ7G5fHuBxAzSA&usqp=CAU",
+    "siteUrl": "http://www.silumina.lk/"
+  },
+  {
+    "name":"දිනමිණ",
+    "des":"සිංහල භාෂාවෙන් ඔබ වෙත පිදෙන සති අන්ත පුවත්පතකි.",
+    "imgUrl": "http://www.dinamina.lk/sites/all/themes/dailynews/logo.png",
+    "siteUrl": "https://dinamina.lk/"
+  },
+  {
+    "name":"ලංකාදීප",
+    "des":"සිංහල භාෂාවෙන් ඔබ වෙත පිදෙන සති අන්ත පුවත්පතකි.",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVRZNOHK9m9Bh8UrP1mfS4_FHox2ZyRoDQQ&usqp=CAU",
+    "siteUrl": "http://www.lankadeepa.lk/sunday"
+  }
+]

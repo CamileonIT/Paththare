@@ -1,0 +1,32 @@
+[
+  {
+    "name":"The Island",
+    "des":"English-language daily newspaper in Sri Lanka.",
+    "imgUrl": "https://island.lk/wp-content/uploads/2020/09/island-3-1-400x240.jpg",
+    "siteUrl": "https://island.lk/"
+  },
+  {
+    "name":"Ceylon Today",
+    "des":"English-language daily newspaper in Sri Lanka.",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/en/c/cb/Ceylontoday.jpg",
+    "siteUrl": "https://ceylontoday.lk/"
+  },
+  {
+    "name":"Daily News",
+    "des":"English-language daily newspaper in Sri Lanka.",
+    "imgUrl": "https://www.sundayobserver.lk/sites/default/files/styles/large/public/news/2017/12/30/z_p01-Dailynews.jpg?itok=d8Y2VSPN",
+    "siteUrl": "http://www.dailynews.lk/"
+  },
+  {
+    "name":"Daily mirror",
+    "des":"English-language daily newspaper in Sri Lanka.",
+    "imgUrl": "https://www.britishcouncil.lk/sites/default/files/copy_of_copy_of_custom_-_untitled_design.jpg",
+    "siteUrl": "http://www.dailymirror.lk/"
+  },
+  {
+    "name":"Daily FT",
+    "des":"English-language daily newspaper in Sri Lanka.",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn0e6kpRqahRhvm3rwB_IrQWQD7wy_VcrFQA&usqp=CAU",
+    "siteUrl": "http://www.ft.lk/"
+  }
+]

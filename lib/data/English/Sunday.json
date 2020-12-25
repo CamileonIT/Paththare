@@ -1,0 +1,20 @@
+[
+  {
+    "name":"Sunday Times",
+    "des":"The newspaper of the nation",
+    "imgUrl": "https://www.slpi.lk/wp-content/uploads/2016/05/SUNDAY-TIMES.png",
+    "siteUrl": "http://www.sundaytimes.lk/"
+  },
+  {
+    "name":"Sunday Observer",
+    "des":"The newspaper of the nation 2",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-MrtTiUrlW-XTWAOR_3EZDqwckXZlUsVADg&usqp=CAU",
+    "siteUrl": "http://www.sundayobserver.lk/"
+  },
+  {
+    "name":"Divaina",
+    "des":"The newspaper of the nation",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9mm7PNVNQ8Krx-3orSQXRIJ7G5fHuBxAzSA&usqp=CAU",
+    "siteUrl": "https://divaina.com/daily/index.php"
+  }
+]

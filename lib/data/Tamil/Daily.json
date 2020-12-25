@@ -1,0 +1,38 @@
+[
+  {
+    "name":"Divaina",
+    "des":"The newspaper of the nation",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9mm7PNVNQ8Krx-3orSQXRIJ7G5fHuBxAzSA&usqp=CAU",
+    "siteUrl": "https://divaina.com/daily/index.php"
+  },
+  {
+    "name":"Dinamina",
+    "des":"The newspaper of the nation 2",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRipVmOUaMUrOjEzGqMaNEUubo8iZa-9edj7w&usqp=CAU",
+    "siteUrl": "https://dinamina.lk/"
+  },
+  {
+    "name":"Deshaya",
+    "des":"The newspaper of the nation",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9mm7PNVNQ8Krx-3orSQXRIJ7G5fHuBxAzSA&usqp=CAU",
+    "siteUrl": "http://www.deshaya.lk/"
+  },
+  {
+    "name":"Colombo Times",
+    "des":"The newspaper of the nation",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9mm7PNVNQ8Krx-3orSQXRIJ7G5fHuBxAzSA&usqp=CAU",
+    "siteUrl": "https://divaina.com/daily/index.php"
+  },
+  {
+    "name":"Colombo Times",
+    "des":"The newspaper of the nation 2",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRipVmOUaMUrOjEzGqMaNEUubo8iZa-9edj7w&usqp=CAU",
+    "siteUrl": "https://dinamina.lk/"
+  },
+  {
+    "name":"Divaina",
+    "des":"The newspaper of the nation",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9mm7PNVNQ8Krx-3orSQXRIJ7G5fHuBxAzSA&usqp=CAU",
+    "siteUrl": "https://divaina.com/daily/index.php"
+  }
+]

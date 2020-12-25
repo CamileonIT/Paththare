@@ -1,0 +1,20 @@
+[
+  {
+    "name":"Wijaya",
+    "des":"The newspaper of the nation",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9mm7PNVNQ8Krx-3orSQXRIJ7G5fHuBxAzSA&usqp=CAU",
+    "siteUrl": "https://divaina.com/daily/index.php"
+  },
+  {
+    "name":"Dinamina",
+    "des":"The newspaper of the nation 2",
+    "imgUrl": "http://www.dinamina.lk/sites/all/themes/dailynews/logo.png",
+    "siteUrl": "https://dinamina.lk/"
+  },
+  {
+    "name":"Divaina",
+    "des":"The newspaper of the nation",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9mm7PNVNQ8Krx-3orSQXRIJ7G5fHuBxAzSA&usqp=CAU",
+    "siteUrl": "https://divaina.com/daily/index.php"
+  }
+]
